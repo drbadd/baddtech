@@ -1,0 +1,24 @@
+{
+  "name": "baddtech",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drbadd/baddtech.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/drbadd/baddtech/issues"
+  },
+  "homepage": "https://github.com/drbadd/baddtech#readme",
+  "dependencies": {
+    "@11ty/eleventy": "^3.1.1"
+  }
+}
