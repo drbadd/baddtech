@@ -5,9 +5,9 @@ package/generated*
 node_modules/
 
 # Ignore build tool output, e.g. code coverage
-#.nyc_output/
-#coverage/
-#docs/_data/coverage.json
+.nyc_output/
+coverage/
+docs/_data/coverage.json
 
 # Ignore API documentation
 #api-docs/
@@ -20,4 +20,4 @@ node_modules/
 #_site/
 
 # Ignore test files
-#.cache
+.cache

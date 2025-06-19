@@ -1,11 +1,13 @@
 {
   "name": "baddtech",
   "version": "1.0.0",
-  "description": "",
+
+  "description": "test",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build-ghpages": "npx @11ty/eleventy --pathprefix=/baddtech/",
+    "build-ghpages": "npx @11ty/eleventy --pathprefix=/baddtech/"
+
   },
   "repository": {
     "type": "git",
