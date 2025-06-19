@@ -3,7 +3,7 @@ package/generated*
 
 # Ignore installed npm modules
 node_modules/
-node_modules\
+
 
 # Ignore build tool output, e.g. code coverage
 .nyc_output/
@@ -11,14 +11,14 @@ coverage/
 docs/_data/coverage.json
 
 # Ignore API documentation
-api-docs/
+#api-docs/
 
 # Ignore folders from source code editors
 .vscode
 .idea
 
 # Ignore eleventy output when doing manual tests
-_site/
+#_site/
 
 # Ignore test files
 .cache
